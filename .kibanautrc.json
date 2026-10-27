@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "no-implicit-limit": "error",
+    "keyword-case": "info",
+    "one-command-per-line": "info"
+  },
+  "functionCase": "upper"
+}
